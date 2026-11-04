@@ -1,5 +1,6 @@
 # Hotel Reservation System ER Diagram
 This diagram shows the four (4) tables, their field and how they connect
+```mermaid
 erDiagram
     direction LR
     GUEST {
@@ -30,6 +31,7 @@ erDiagram
     ROOM_CATEGORY ||--o{ ROOM : "contains"
     GUEST ||--o{ RESERVATION : "makes"
     ROOM ||--o{ RESERVATION : "has"
+```
 
 ##  Reading the diagram
 Explanation of Key Terms and Symbols
