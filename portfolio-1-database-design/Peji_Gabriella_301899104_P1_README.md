@@ -28,7 +28,7 @@ Register a guest; add a room category and physical rooms; create a reservation; 
 | [Schema](Peji_Gabriella_301899104_P1_Schema.sql) | Table definitions, keys and constraints. |
 | [Sample Data](Peji_Gabriella_301899104_P1_SampleData.sql) | Valid sample dataset representing active, completed, and cancelled stays. |
 | [Constraint Test](Peji_Gabriella_301899104_P1_ConstraintsTests.sql) | Negative test statements verifying schema constraints |
-| [Screenshots](screenshots/) | Saved commands and results. |
+| [Screenshots](Screenshots/) | Saved commands and results. |
 
 
 ## Scope
