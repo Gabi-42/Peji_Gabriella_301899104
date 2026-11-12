@@ -1,6 +1,6 @@
 # MIT 8103 Advanced Database Systems Portfolio
 
-Name: Gabriella Peji
+Name: Gabriella Oiza Peji
 
 Student ID: 301899104
 ## Case study
