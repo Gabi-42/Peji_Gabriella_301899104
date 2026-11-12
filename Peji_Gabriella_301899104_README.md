@@ -5,7 +5,7 @@ Name: Gabriella Peji
 Student ID: 301899104
 ## Case study
 
-To be selected in the next step.
+Hotel reservation system: register a guest, catalogue room category and physical rooms, create a reservation, process a check-in and check-out, process payments, cancel a reservation and view available rooms for specific dates.
 
 ## Portfolio folders
 
