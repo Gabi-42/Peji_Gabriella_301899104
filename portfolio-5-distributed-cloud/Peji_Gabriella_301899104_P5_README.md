@@ -24,4 +24,4 @@ Sharding distributes subsets of data across multiple servers, whereas replicatio
 - [Write Concern](https://www.mongodb.com/docs/v8.0/reference/write-concern/)
 - [Sharding](https://www.mongodb.com/docs/manual/sharding/)
 - [Backup options](https://www.mongodb.com/docs/atlas/backup-restore-cluster/)
->>>>>>> 22de8d73b55944c9f67ec2e80e13b4dc777458b9
+
