@@ -3,6 +3,7 @@
 Name: Gabriella Oiza Peji
 
 Student ID: 301899104
+GitHub Repository : github.com/Gabi-42/Peji_Gabriella_301899104
 ## Case study
 
 Hotel reservation system: register a guest, catalogue room category and physical rooms, create a reservation, process a check-in and check-out, process payments, cancel a reservation and view available rooms for specific dates.
